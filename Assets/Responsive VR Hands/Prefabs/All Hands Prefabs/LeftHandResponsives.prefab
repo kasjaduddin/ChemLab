@@ -987,7 +987,7 @@ MonoBehaviour:
   _rigFingerTip: {fileID: 1213162115033269921}
   _obstacleLayers:
     serializedVersion: 2
-    m_Bits: 256
+    m_Bits: 0
   _movementCurve:
     serializedVersion: 2
     m_Curve:
@@ -1540,7 +1540,7 @@ MonoBehaviour:
   _rigFingerTip: {fileID: 5451342644903785941}
   _obstacleLayers:
     serializedVersion: 2
-    m_Bits: 256
+    m_Bits: 0
   _movementCurve:
     serializedVersion: 2
     m_Curve:
