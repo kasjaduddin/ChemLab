@@ -17,7 +17,7 @@ public class PanelController : MonoBehaviour
         if (mainCamera != null && panelTransform != null)
         {
             Vector3 newPosition = panelTransform.position;
-            newPosition.y = mainCamera.transform.position.y;
+            newPosition.y = mainCamera.transform.position.y + 0.6f;
             panelTransform.position = newPosition;
         }
     }
